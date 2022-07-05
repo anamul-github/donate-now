@@ -35,3 +35,92 @@ body {
     font-size: small;
     font-weight: 100;
 }
+
+
+#donate-today-part {
+    text-align: center;
+    padding: 60px 130px;
+}
+
+.donate-para {
+    width: 400px;
+    padding-left: 90px;
+    font-size: smaller;
+    font-weight: 100;
+    color: #73777B;
+    text-align: center;
+
+}
+
+.taka-poysha {
+    display: flex;
+    padding: 10px 0 20px 65px;
+    font-size: 70%;
+
+}
+
+.taka {
+    padding: 25px 10px;
+    color: #73777B;
+    background-color: #EFEFEF;
+    border: 1px solid white;
+    border-radius: 5px;
+    margin: 7px;
+    font-weight: bolder;
+
+
+}
+
+.button-style {
+    border: 2px solid tomato;
+    color: tomato;
+}
+
+#line {
+    width: 450px;
+    color: #73777B;
+    margin-bottom: 30px;
+}
+
+#donation-plan-part {
+    text-align: center;
+    padding: 30px 100px;
+}
+
+.plan-types {
+    display: flex;
+    padding: 35px 0;
+}
+
+.all-plans {
+    padding: 15px 20px;
+    background-color: ;
+    border: 1px solid white;
+    margin: 10px;
+    text-align: left;
+}
+
+.first-plan {
+    background-color: #D3DEDC;
+
+
+}
+
+.second-plan {
+    background-color: #FEECE9;
+}
+
+.third-plan {
+    background-color: #FCF9C6;
+}
+
+
+#email-update {
+    text-align: center;
+    padding: 30px 100px;
+}
+
+
+#footer {
+    text-align: center;
+}
