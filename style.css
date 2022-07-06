@@ -121,6 +121,36 @@ body {
     color: #73777B;
 }
 
+
+#bonus-feature {
+    display: flex;
+    padding: 40px 40px;
+
+}
+
+.bonus-parts {
+    padding: 40px 20px;
+    text-align: center;
+    border-radius: 15px;
+    margin: 5px 25px;
+    box-shadow: 5px 5px 10px gray;
+}
+
+.suffering-img {
+    width: 500px;
+}
+
+.contribution-img {
+    width: 450px;
+}
+
+#bonus-feature p {
+    font-size: medium;
+    color: #73777B;
+    padding-bottom: 20px;
+}
+
+
 #email-update {
     text-align: center;
     padding: 40px 450px 80px;
