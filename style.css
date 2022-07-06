@@ -40,11 +40,10 @@ body {
 #donate-today-part {
     text-align: center;
     padding: 60px 130px;
+
 }
 
 .donate-para {
-    width: 400px;
-    padding-left: 90px;
     font-size: smaller;
     font-weight: 100;
     color: #73777B;
@@ -54,8 +53,9 @@ body {
 
 .taka-poysha {
     display: flex;
-    padding: 10px 0 20px 65px;
+    padding: 10px 400px 20px;
     font-size: 70%;
+
 
 }
 
@@ -89,7 +89,9 @@ body {
 
 .plan-types {
     display: flex;
-    padding: 35px 0;
+    padding: 10px 145px;
+    width: 80%;
+
 }
 
 .all-plans {
@@ -102,7 +104,6 @@ body {
 .first-plan {
     background-color: #D3DEDC;
 
-
 }
 
 .second-plan {
@@ -114,9 +115,20 @@ body {
 }
 
 
+
+.plan-types p {
+    font-size: small;
+    color: #73777B;
+}
+
 #email-update {
     text-align: center;
-    padding: 30px 100px;
+    padding: 40px 450px 80px;
+}
+
+#email-update p {
+    padding-bottom: 25px;
+
 }
 
 #form {
@@ -151,4 +163,16 @@ body {
     color: white;
     background-color: black;
     padding-bottom: 1px;
+}
+
+#footer h2 {
+    font-family: 'Lobster', cursive;
+    padding-top: 25px;
+    color: tomato;
+
+}
+
+#footer p {
+    font-size: xx-small;
+    padding-bottom: 25px;
 }
