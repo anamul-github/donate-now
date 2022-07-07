@@ -51,6 +51,8 @@ body {
 
 }
 
+
+
 .taka-poysha {
     display: flex;
     padding: 10px 400px 20px;
@@ -69,6 +71,14 @@ body {
     font-weight: bolder;
 
 
+}
+
+#other-amount {
+    border: none;
+    font-size: small;
+    font-weight: 300;
+    color: #73777B;
+    text-align: center;
 }
 
 .button-style {
@@ -124,7 +134,7 @@ body {
 
 #bonus-feature {
     display: flex;
-    padding: 40px 40px;
+    padding: 40px 140px;
 
 }
 
